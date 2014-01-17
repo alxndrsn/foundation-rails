@@ -1,5 +1,5 @@
 module Foundation
   module Rails
-    VERSION = "5.0.2.1.panda"
+    VERSION = "5.0.3.0.panda"
   end
 end
